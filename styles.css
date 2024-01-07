@@ -19,6 +19,7 @@
 .inter {
     font-family: 'Inter', sans-serif;
     font-weight: 430;
+    font-size: 20px;
 }
 
 /* Header section styles */
@@ -83,5 +84,45 @@
     padding-top: 51px;
     padding-left: 266px;
 }
+
+
+.party-banner {
+    background-image:linear-gradient(90deg, #070211, #07021100) , url('./images/Vectorrr.png') ;
+    background-position:left ;
+    height: 600px;
+    border-radius:15px;
+    display: flex;
+    background-repeat: no-repeat;
+    margin-top: 125px;
+}
+
+.party-heading {
+    width: 642px;
+    color: #FFF;
+    font-size: 64px;
+    letter-spacing: 7.04px;
+    padding-top: 130px;
+    padding-left:126px ;
+}
+
+.party-description {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    padding-top:25px;
+    padding-left: 126px;
+}
+
+.party-join {
+    color: #FFF;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding:50px 378px 0 0px;
+}
+.vector-2024{
+    padding:85px 138px 50px 55px;
+}
+
 
 /* Footer section styles */
