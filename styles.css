@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* common shared style */
+.container {
+    width: 83%;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.mw {
+    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+}
+
+.inter {
+    font-family: 'Inter', sans-serif;
+    font-weight: 430;
+}
+
+/* Header section styles */
+.banner {
+    background-image: linear-gradient(#070211, #07021100), url('./images/Banner\ Image.png');
+    height: 600px;
+    border-radius: 16px;
+
+}
+
+.banner-heading {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 177px;
+}
+
+.banner-heading1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    width: 632px;
+    padding-left: 344px;
+}
+
+/* Main section styles */
+
+.categories div {
+    display: block;
+}
+
+.off-heading {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top: 120px;
+}
+
+.deals-heading {
+    color: #F00;
+
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 48px;
+}
+
+.all-categories-heading {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.ny-img {
+    width: 800px;
+    height: 500px;
+    padding-top: 51px;
+    padding-left: 266px;
+}
+
+/* Footer section styles */
