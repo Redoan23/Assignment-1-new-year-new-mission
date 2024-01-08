@@ -423,6 +423,10 @@ hr {
     padding-bottom: 50px;
 }
 
+.icon-gap{
+ padding-left: 25px;
+}
+
 .link{
     display: flex;
     justify-content: space-around;
