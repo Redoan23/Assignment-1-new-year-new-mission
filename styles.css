@@ -230,7 +230,7 @@
 }
 
 /* HOLIDAYS SALE SECTION STYLE */
-.holidays-sale{
+.holidays-sale {
     margin-top: 130px;
     background: #FFF;
 }
@@ -259,27 +259,59 @@
     text-align: center;
 }
 
-.holidays-sale-images{
-   
+.holidays-sale-images {}
+
+#holidays-sale-images4 {
+    margin-bottom: -640px;
 }
 
-#holidays-sale-images4{
-        margin-bottom:-640px;
+#holidays-sale-images2 {
+    margin-left: 736px;
 }
-#holidays-sale-images2{
-    margin-left:736px;
-}
-#holidays-sale-images1{
-    margin:0px 0 -309px 890px;
+
+#holidays-sale-images1 {
+    margin: 0px 0 -309px 890px;
 }
 
 /* PORTFOLIO SECTION */
 
+.portfolio {
+    margin-top: 120px;
+}
 
+.portfolio-heading-1 {
+    font-size: 24px;
+    font-weight: 500;
+}
 
+.portfolio-heading-2 {
+    color: #070211;
+    font-size: 48px;
+    text-transform: capitalize;
+    padding-top: 16px;
+}
 
+.portfolio-description {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    padding-top: 22px;
+}
 
+.portfolio-images img{
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;
+    padding:6px
+}
+.portfolio-images{
+    padding-top: 45px;;
+}
+.portfolio-images img:hover{
+    transform: scale(1.01);
+    transition: all 0.1s ease-in;
+}
 
+/* NEWSLETTER SECTION STYLE */
 
 
 
