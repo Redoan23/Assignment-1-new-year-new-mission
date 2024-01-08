@@ -3,9 +3,10 @@
     padding: 0;
 }
 
-/* common shared style */
+/* COMMON SHARED STYLE */
+
 .container {
-    width: 83%;
+    width: 87%;
     max-width: 1320px;
     margin: 0 auto;
 }
@@ -47,7 +48,7 @@
     padding-left: 344px;
 }
 
-/* Main section styles */
+/* MAIN SECTION STYLES */
 
 .categories div {
     display: block;
