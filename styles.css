@@ -329,9 +329,10 @@
     margin-top: 120px;
 }
 
-.newsletter img{
+.newsletter img {
     padding-top: 80px;
 }
+
 .subscribe-text {
     color: #070211;
     text-align: center;
@@ -400,13 +401,13 @@ input[type="placeholder"] {
 
 .text1 {
     color: #FFF;
-    font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    padding-left: 15px;
 }
 
-.contact-details{
-height: 240px;
+.contact-details {
+    height: 240px;
 }
 
 .contact-icon {
@@ -417,25 +418,25 @@ height: 240px;
 hr {
     width: 1320px;
     height: .01px;
-    background-color: rgba(109, 98, 98, 0.221);  
+    background-color: rgba(109, 98, 98, 0.221);
 }
 
-.social-links{
+.social-links {
     text-align: center;
-    padding-top:50px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.icon-gap{
- padding-left: 25px;
+.icon-gap {
+    padding-left: 25px;
 }
 
-.link{
+.link {
     display: flex;
     justify-content: space-around;
     padding-top: 85px;
 }
 
-a{
+a {
     text-decoration: none;
 }
