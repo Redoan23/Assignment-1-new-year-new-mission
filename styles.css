@@ -81,8 +81,7 @@
 .ny-img {
     width: 800px;
     height: 500px;
-    padding-top: 51px;
-    padding-left: 266px;
+    padding: 51px 0 0 266px;
 }
 
 
@@ -101,15 +100,13 @@
     color: #FFF;
     font-size: 64px;
     letter-spacing: 7.04px;
-    padding-top: 130px;
-    padding-left: 126px;
+    padding: 130px 0 0 126px;
 }
 
 .party-description {
     width: 697px;
     color: rgba(255, 255, 255, 0.80);
-    padding-top: 25px;
-    padding-left: 126px;
+    padding: 25px 0 0 126px;
 }
 
 .party-join {
@@ -155,7 +152,6 @@
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
-
 }
 
 .joinnow-btn {
@@ -167,6 +163,70 @@
     height: 482px;
     display: block;
     margin-top: 125px;
+}
+
+
+/* BEST OFFER SECTION STYLES */
+
+.best-offer-heading {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.best-offer-trap {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 16px;
+}
+
+.best-offer-description {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    padding-top: 24px;
+}
+
+.best-offer-ad {
+    display: block;
+    margin-right: 70px;
+    padding-top: 80px;
+}
+
+.best-offer-year {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.best-offer-time-description {
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    padding-top: 16px;
+}
+
+.best-offer-time {
+    display: block;
+    padding: 80px 0 0 120px;
+}
+
+.new-year-logo {
+    padding-top: 46px;
+}
+
+.fake-friends {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 25px;
+    background: #FFF;
+}
+
+.best-offer-container {
+    display: flex;
+    margin-top: 130px;
 }
 
 /* Footer section styles */
