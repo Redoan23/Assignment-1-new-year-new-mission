@@ -84,6 +84,7 @@
     padding: 51px 0 0 266px;
 }
 
+/* MIDNIGHT PARTY SECTION */
 
 .party-banner {
     background-image: linear-gradient(90deg, #070211, #07021100), url('./images/Vectorrr.png');
@@ -121,6 +122,8 @@
 .vector-2024 {
     padding: 85px 138px 50px 55px;
 }
+
+/* SCHEDULE SECTION */
 
 .red {
     color: red;
@@ -271,7 +274,9 @@
     margin: 0px 0 -309px 890px;
 }
 
+
 /* PORTFOLIO SECTION */
+
 
 .portfolio {
     margin-top: 120px;
@@ -312,14 +317,16 @@
     transition: all 0.1s ease-in;
 }
 
+
 /* NEWSLETTER SECTION STYLE */
 
+
 .newsletter {
+    height: 616px;
     text-align: center;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     margin-top: 120px;
-    padding-bottom: 80px;
 }
 
 .subscribe-text {
@@ -349,7 +356,7 @@ input[type="email"] {
 input[type="placeholder"] {
     color: rgba(7, 2, 17, 0.30);
     text-align: center;
-    font-family:inter,serif;
+    font-family: inter, serif;
     font-size: 20px;
     font-weight: 400;
 
@@ -358,19 +365,70 @@ input[type="placeholder"] {
 .btn-2 {
     border: 0;
     border-top-left-radius: 2px;
-    border-bottom-left-radius:2px;
+    border-bottom-left-radius: 2px;
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
     height: 71px;
     font-size: 20px;
     font-weight: 600;
-    border-left:2 px;
+    border-left: 2 px;
 }
 
-.btn-div{
+.btn-div {
     padding-left: 320px;
-    display: flex;}
+    display: flex;
+}
 
 
 /* Footer section styles */
 
+
+.footer {
+    height: 609px;
+    background-color: #070211;
+    padding-top: 140px;
+    margin-top: 130px;
+}
+
+.footer-section-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.contact-details{
+height: 240px;
+}
+
+.contact-icon {
+    display: flex;
+    text-align: center;
+}
+
+hr {
+    width: 1320px;
+    height: .01px;
+    background-color: rgba(109, 98, 98, 0.221);  
+}
+
+.social-links{
+    text-align: center;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+.link{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 85px;
+}
+
+a{
+    text-decoration: none;
+}
