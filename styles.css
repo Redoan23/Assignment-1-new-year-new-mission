@@ -318,7 +318,7 @@
 }
 
 
-/* NEWSLETTER SECTION STYLE */
+/* NEWSLETTER SECTION STYLES */
 
 
 .newsletter {
@@ -329,6 +329,9 @@
     margin-top: 120px;
 }
 
+.newsletter img{
+    padding-top: 80px;
+}
 .subscribe-text {
     color: #070211;
     text-align: center;
